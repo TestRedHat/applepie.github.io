@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url(asset_path('#{$icon-font-path}#{$icon-font-name}.eot'));
+  src: url(asset_path('#{$icon-font-path}#{$icon-font-name}.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('#{$icon-font-path}#{$icon-font-name}.woff')) format('woff'),
+       url(asset_path('#{$icon-font-path}#{$icon-font-name}.ttf')) format('truetype'),
+       url(asset_path('#{$icon-font-path}#{$icon-font-name}.svg#glyphicons-halflingsregular')) format('svg');
+}
