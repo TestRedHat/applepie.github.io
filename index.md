@@ -22,7 +22,7 @@ body {
 <p> 8 - Flute the edges with a pinching action using your fingers and thumb.</p>
 <p> 9 - Prick the surface of the pastry lightly before placing the pie in the oven. Cook for 20-30 minutes.</p>
 <p> 10 - When the pie is cooked it should move slightly on the plate when gently shaken.</p>
-<p> 11 -Slide on to a serving plate, dust with caster sugar and serve.</p>
+<p> 11 - Slide on to a serving plate, dust with caster sugar and serve.</p>
 <p> Last step:  Enjoy the apple pie!! </p>
 </body>
 </html>
